@@ -4,7 +4,7 @@ Phase 1 documents
 
 ## Branches
 
- - master branch
+ - main branch
  - dev branch
     -- to be used for all the initial files and updates.
     -- merge with master branch afterwards. 
