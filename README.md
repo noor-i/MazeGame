@@ -1,5 +1,6 @@
 # MazeGame
 Name: Steve's Trippy Adventure
+
 Group Project for CMPT 276 at SFU 
 
 A 2D maze game inspired by Minecraft with a little fun twist. The goal is to collect as many mushrooms and diamonds without running into the enemies. After collecting at least 100 points, you then find the door to escape the maze and win!
@@ -7,8 +8,11 @@ A 2D maze game inspired by Minecraft with a little fun twist. The goal is to col
 KEYS:
 
 A - left
+
 D - right
+
 W - up
+
 S - down
 
 P - pause
