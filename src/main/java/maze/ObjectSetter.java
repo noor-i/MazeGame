@@ -2,6 +2,7 @@ package maze;
 
 import objects.DiamondObject;
 import objects.IronObject;
+import objects.MushroomObject;
 
 /**
  * The ObjectSetter class is responsible for setting up the objects and enemies
@@ -45,7 +46,7 @@ public class ObjectSetter {
         mb.obj[3].worldX = 10 * MazeBoard.CELL_SIZE;
         mb.obj[3].worldY = 38 * MazeBoard.CELL_SIZE;
 
-        // IRON
+        // IRON 
         mb.obj[4] = new IronObject();
         mb.obj[4].worldX = 28 * MazeBoard.CELL_SIZE;
         mb.obj[4].worldY = 23 * MazeBoard.CELL_SIZE;

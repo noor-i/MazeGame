@@ -44,26 +44,26 @@ class ObjectSetterTest {
         // Check that iron objects were created and placed at the correct locations
         assertEquals(28 * MazeBoard.CELL_SIZE, mb.obj[4].worldX);
         assertEquals(23 * MazeBoard.CELL_SIZE, mb.obj[4].worldY);
-        assertEquals("iron", mb.obj[4].name);
+        assertEquals("mushroom", mb.obj[4].name);
 
         assertEquals(22 * MazeBoard.CELL_SIZE, mb.obj[5].worldX);
         assertEquals(36 * MazeBoard.CELL_SIZE, mb.obj[5].worldY);
-        assertEquals("iron", mb.obj[5].name);
+        assertEquals("mushroom", mb.obj[5].name);
 
         assertEquals(24 * MazeBoard.CELL_SIZE, mb.obj[6].worldX);
         assertEquals(36 * MazeBoard.CELL_SIZE, mb.obj[6].worldY);
-        assertEquals("iron", mb.obj[6].name);
+        assertEquals("mushroom", mb.obj[6].name);
 
         assertEquals(26 * MazeBoard.CELL_SIZE, mb.obj[7].worldX);
         assertEquals(36 * MazeBoard.CELL_SIZE, mb.obj[7].worldY);
-        assertEquals("iron", mb.obj[7].name);
+        assertEquals("mushroom", mb.obj[7].name);
 
         assertEquals(24 * MazeBoard.CELL_SIZE, mb.obj[8].worldX);
         assertEquals(23 * MazeBoard.CELL_SIZE, mb.obj[8].worldY);
-        assertEquals("iron", mb.obj[8].name);
+        assertEquals("mushroom", mb.obj[8].name);
 
         assertEquals(26 * MazeBoard.CELL_SIZE, mb.obj[9].worldX);
         assertEquals(23 * MazeBoard.CELL_SIZE, mb.obj[9].worldY);
-        assertEquals("iron", mb.obj[9].name);
+        assertEquals("mushroom", mb.obj[9].name);
     }
 }
