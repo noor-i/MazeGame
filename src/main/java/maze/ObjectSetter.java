@@ -2,7 +2,6 @@ package maze;
 
 import objects.DiamondObject;
 import objects.IronObject;
-import objects.MushroomObject;
 
 /**
  * The ObjectSetter class is responsible for setting up the objects and enemies
