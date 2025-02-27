@@ -4,6 +4,9 @@ A 2D maze game in Java inspired by Minecraft. The goal is to collect as many iro
 
 ![giphy](https://github.com/noor-i/MazeGame/assets/57691234/361745cc-be8f-4052-aae8-1d2f5ddae5f0)
 
+## Tools & Technologies Used: ##
+Java, Maven Apache, JUnit, Visual Studio Code, Object Oriented Programming.
+
 ## Prerequisites ##
 - Ensure you have Java JDK installed on your system.
 - Make sure you have Maven installed on your system.
